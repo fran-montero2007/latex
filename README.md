@@ -1,4 +1,4 @@
-LaTeX es un sistema de composición de textos diseñado específicamente para lograr una alta calidad tipográfica en documentos técnicos y científicos
+'''LaTeX es un sistema de composición de textos diseñado específicamente para lograr una alta calidad tipográfica en documentos técnicos y científicos
 . Su funcionamiento integra una filosofía de trabajo única con herramientas potentes para la creación de contenido profesional.
 Aquí tienes la síntesis de su concepto, su filosofía y su aplicación práctica con fórmulas:
 1. La Filosofía: Contenido sobre Formato
@@ -22,7 +22,8 @@ Overleaf (Web): Permite escribir código y ver una vista previa en tiempo real d
 Texmaker (Escritorio): Un editor potente con autocompletado de comandos y un visor integrado para ver los cambios inmediatamente después de compilar
 .
 Distribuciones Locales: Para instalarlo en tu ordenador, puedes usar MiKTeX (PC) o MacTeX (Mac), este último incluyendo el editor TeXShop
+'''
 .
-4. Cómo empezar
+5. Cómo empezar
 Para dominar esta metodología, se recomienda no empezar de cero. Lo ideal es buscar una plantilla predefinida (como las que ofrecen Overleaf o Texmaker)
 y empezar a "toquetear" el código: cambiar textos, poner negritas con \textbf{} o cursivas con \textit{} y observar cómo el sistema compila y genera el resultado profesional de forma automática
